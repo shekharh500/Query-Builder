@@ -1,0 +1,1 @@
+global class NumberFormatException extends Exception {}

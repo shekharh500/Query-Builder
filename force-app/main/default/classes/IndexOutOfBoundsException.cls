@@ -1,0 +1,1 @@
+global class IndexOutOfBoundsException extends Exception {}
